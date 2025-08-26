@@ -62,4 +62,26 @@ Requirement Analysis is not just one step — it involves several important acti
 - **Requirement Analysis and Modeling**: Studying the requirements to check for conflicts, feasibility, and completeness. Sometimes, diagrams or models are created to visualize how the system should work.
 - **Requirement Validation**: Reviewing the requirements with stakeholders to confirm they are correct, complete, and actually solve the business problem.
 
+## Types of Requirements
+
+Functional Requirements
+
+Functional requirements describe **what the system should do**. These are the specific features and functions that allow users and administrators to achieve their goals in the booking management project.
+
+Examples:
+- The system should allow users to create a new booking.
+- Users should be able to cancel or modify an existing booking.
+- The system should send confirmation emails after a successful booking.
+- Administrators should be able to view all bookings and generate reports.
+
+Non-functional Requirements
+
+Non-functional requirements describe **how the system should perform**. These are quality attributes such as speed, reliability, and security that make the system effective for end users.
+
+Examples:
+- The system should load booking results within 2 seconds.
+- The system should handle up to 10,000 simultaneous users.
+- All booking data must be encrypted for security.
+- The system should provide 99.9% uptime availability.
+
 
