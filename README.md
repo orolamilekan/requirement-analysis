@@ -85,3 +85,20 @@ Examples:
 - The system should provide 99.9% uptime availability.
 
 
+
+## Use Case Diagrams
+
+A **Use Case Diagram** is a visual representation of the interactions between different users (called *actors*) and the system.  
+It helps in understanding the **functional requirements** by showing *who can do what* within the system.
+
+### Benefits of Use Case Diagrams
+- Provide a clear and simple way to capture system functionality.
+- Help communicate requirements between stakeholders and developers.
+- Show relationships between users and different system features.
+- Form the foundation for creating detailed functional requirements.
+
+### Booking Management System Use Case Diagram
+
+The diagram below illustrates the main actors and use cases for our booking management project:
+
+![Booking Management Use Case Diagram](./alx-booking-uc.png)
