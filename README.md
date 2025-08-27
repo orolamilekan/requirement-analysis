@@ -101,4 +101,5 @@ It helps in understanding the **functional requirements** by showing *who can do
 
 The diagram below illustrates the main actors and use cases for our booking management project:
 
-![Booking Management Use Case Diagram](./alx-booking-uc.png)
+
+
