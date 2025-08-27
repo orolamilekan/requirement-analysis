@@ -106,5 +106,7 @@ The diagram below illustrates the main actors and use cases for our booking mana
 
 A use case diagram illustrates the actors (people or systems) and their capabilities within the booking system.
 
-![Booking System Use Case](./alx-booking-uc.png)
+
+<img width="1536" height="1024" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/25839649-4805-4413-8851-2079b065a418" />
+
 
