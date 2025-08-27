@@ -102,4 +102,9 @@ It helps in understanding the **functional requirements** by showing *who can do
 The diagram below illustrates the main actors and use cases for our booking management project:
 
 
+## Use Case Diagrams
+
+A use case diagram illustrates the actors (people or systems) and their capabilities within the booking system.
+
+![Booking System Use Case](./alx-booking-uc.png)
 
